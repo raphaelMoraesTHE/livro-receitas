@@ -16,3 +16,5 @@ _italico_
 ###Modo de preparo
 
  - [*] Mistura tudo e cosinha
+ - [*} Coloca no prato e come
+ 
